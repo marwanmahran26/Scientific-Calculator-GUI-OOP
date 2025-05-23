@@ -1,0 +1,32 @@
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.exe
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.deps.json
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.runtimeconfig.json
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.dll
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.pdb
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.csproj.GenerateResource.cache
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.AssemblyInfoInputs.cache
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.AssemblyInfo.cs
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.csproj.CoreCompileInputs.cache
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.dll
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\refint\Calculator oop GUI.dll
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.pdb
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.genruntimeconfig.cache
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\ref\Calculator oop GUI.dll
+C:\Users\Marwan Mahran\Desktop\oop\Calculator oop GUI\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator_oop_GUI.Calculator.resources
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.exe
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.deps.json
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.runtimeconfig.json
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.dll
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\bin\Debug\net8.0-windows\Calculator oop GUI.pdb
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator_oop_GUI.Calculator.resources
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.csproj.GenerateResource.cache
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.AssemblyInfoInputs.cache
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.AssemblyInfo.cs
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.csproj.CoreCompileInputs.cache
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.dll
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\refint\Calculator oop GUI.dll
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.pdb
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\Calculator oop GUI.genruntimeconfig.cache
+C:\Users\Marwan Mahran\Desktop\oop\231004293\Calculator oop GUI\obj\Debug\net8.0-windows\ref\Calculator oop GUI.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculator oop GUI/1.0.0": {
+        "runtime": {
+          "Calculator oop GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator oop GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
